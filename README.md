@@ -1,4 +1,4 @@
-# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> IFOOD
+# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> BANCO NEON
 
 <div align="center">
 </div>
@@ -57,8 +57,8 @@
 
 ## 📖 Sobre
 
-A proposta do projeto é a replica do famoso aplicativo IFOOD, que funciona realizando compras e entregas de alimentos entre diversos usuários ao mesmo tempo.
-O aplicativo é capaz de realizar cadastro do usuário, editar perfil, cadastrar endereços, publicar anuncios em diversas categorias, favoritar anúncios de outros usuários e entrar em contato por ligação, selecionar forma de pagamento e entrega. Tambem é possivel recuperar a conta enviando um e-mail para o usuário cadastrado.
+A proposta do projeto é a replica do famoso aplicativo de banco NEON, que funciona realizando transferências, depósitos, recarga de celular, cobranças com diversos usuários ao mesmo tempo em tempo real.
+O aplicativo é capaz de realizar cadastro do usuário, editar perfil, cadastrar telefone, publicar depositos, ver outros usuários, visualizar data das ações, confirmar destionatario, remetente e central de notificações em tempo real. Tambem é possivel recuperar a conta enviando um e-mail para o usuário cadastrado.
 
 
 
@@ -98,26 +98,22 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Intents
 - Bundle
 - Navegação e dados entre Activities
-- Navegação e dados entre Fragments
 - CardView
 - Lógica de Programação
 - Pogramação Orientada a Objetos
 - Alert Dialog
 - RecyclerView
 - Banco de Dados
-- Firebase (Realtime e Storage)
-- Sqlite
+- Firebase (autentication, Realtime e Storage)
 - Swipe
 - Constraintlayout, framelayout e linearlayout
 - Picasso
 - Bottom Sheet
 - Bottom Navigation
 - Custom Toolbar
-- Mask
-- ViewPager
-- Tablayout
+- Mascara de valores
 - TedPermission
--
+- Picasso
 
 
 
@@ -133,7 +129,6 @@ O projeto foi desenvolvido utilizando as seguintes bibliotecas:
 - https://github.com/ParkSangGwon/TedPermission (utilizacão de galeria/camera)
 - https://github.com/square/picasso (utilização de imagens)
 - https://github.com/tsuryo/Swipeable-RecyclerView (Recyclerview com swipe)
-- https://github.com/jd-alexander/LikeButton (Botão de favoritar personalizado)
 
 
 ---
